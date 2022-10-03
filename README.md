@@ -1,6 +1,13 @@
 "# Study-helper" 
-Vocabulary test
+# Vocabulary test
 
+## Installation
+Use the package manager pip to install random
+'''bash
+pip install random
+'''
+
+## Usage
 This code is made to take the vocabulary test and it works like this:
     You give your wordlist as a data.txt file , wich includes "word(in a language) : word(in another language)"
     Then you can run the codes and it taking request the number of words in a language and you can give it a number.
