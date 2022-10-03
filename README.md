@@ -2,7 +2,7 @@
 # Vocabulary test
 
 ## Installation
-Use the package manager pip to install random
+Use the package manager [pip](https://pip.pypa.io/en/stable) to install random.
 '''bash
 pip install random
 '''
