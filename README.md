@@ -1,4 +1,3 @@
-"# Study-helper" 
 # Vocabulary test
 
 ## Installation
