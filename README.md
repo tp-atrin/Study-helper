@@ -9,7 +9,7 @@ pip install random
 
 ## Usage
 This code is made to take the vocabulary test and it works like this:
-   1. You give your wordlist as a data.txt file , wich includes > "word(in a language) : word(in another language)"
+   1. You give your wordlist as a data.txt file , wich includes "word(in a language) : word(in another language)"
    2. Then you can run the codes and it taking request the number of words in a language and you can give it a number.
    3. After printing the required number of words in one language and you giving the answer in another language, it will again ask you for the number of words in the           other language.
    4. Then it will ask you in another language the words and you answer it in other language.
